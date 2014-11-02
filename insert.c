@@ -42,6 +42,7 @@ int main(int argc, char const *argv[]){
 	}
 	
 	index = atoi(argv[1]);
+	if(index < 0) index = 0;
 	file_src = argv[2];
 	file_des = argv[3];
 	
