@@ -23,11 +23,6 @@
 ![myls-image](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image1.png)
 
 ![myls-image](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image2.png)
-
-![myls-image](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image3.png)
-
-![myls-image](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image4.png)
-
 	
 ###题目 2
 
