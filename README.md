@@ -1,6 +1,6 @@
 #Linux Homework 1 
 
-#####姓名: 王笑盈 &nbsp;&nbsp; 学号: 252885 &nbsp;&nbsp; 日期: 2014年11月
+#####姓名: 王笑盈 &nbsp;&nbsp; 学号: 1252885 &nbsp;&nbsp; 日期: 2014年11月
 
 ---
 
