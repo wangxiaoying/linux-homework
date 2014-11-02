@@ -1,4 +1,4 @@
-	#Linux Homework 1 
+#Linux Homework 1 
 
 #####姓名: 王笑盈 &nbsp;&nbsp; 学号: 252885 &nbsp;&nbsp; 日期: 2014年11月
 
@@ -57,15 +57,13 @@ linux下的链接分为硬链接和符号链接。
 #####功能：
 - 运行时必须传入3个参数
 - 参数一：插入位置
-- 参数二：源文件
-- 参数三：目标文件
+- 参数二：源文件名
+- 参数三：目标文件名
 - 源文件必须存在
 - 目标文件若不存在，会自动新建
 - 插入位置如果大于目标文件大小，则插入到文件末尾
 - 插入位置如果小于0，则插入到文件首
 
 #####执行：
-格式如下：
+格式如下（首行为正确情况，二三行为源文件不存在情况）：
 ![myls-image](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image3.png)
-
-
