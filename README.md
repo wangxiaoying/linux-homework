@@ -1,4 +1,4 @@
-#Linux Homework 1 
+	#Linux Homework 1 
 
 #####姓名: 王笑盈 &nbsp;&nbsp; 学号: 252885 &nbsp;&nbsp; 日期: 2014年11月
 
@@ -20,13 +20,13 @@
 - 参数先后顺序没有要求
 
 #####运行实例:
-![icon](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image1.png)
+![myls-image](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image1.png)
 
-![icon](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image2.png)
+![myls-image](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image2.png)
 
-![icon](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image3.png)
+![myls-image](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image3.png)
 
-![icon](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image4.png)
+![myls-image](https://raw.githubusercontent.com/wangxiaoying/linux-homework1/master/images/image4.png)
 
 	
 ###题目 2
