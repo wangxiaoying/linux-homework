@@ -2,7 +2,7 @@
 
 #####姓名: 王笑盈 &nbsp;&nbsp; 学号: 1252885 &nbsp;&nbsp; 日期: 2014年12月
 
-######<https://github.com/wangxiaoying/linux-homework2>
+######<https://github.com/wangxiaoying/linux-homework>
 ---
 
 ###题目 1
